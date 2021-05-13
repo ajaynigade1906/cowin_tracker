@@ -8,11 +8,10 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='cowin_tracker',
-    version='1.0.0',
+    version='1.0.1',
     description='Python wrapper for CoWin APIs',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url=' https://github.com/backtrackbaba/cowin',
     author='Ajay Nigade',
     author_email='ajay.nigade2012@gmail.com',
     classifiers=[
@@ -36,7 +35,6 @@ setup(
         'requests==2.25.1'
     ],
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/backtrackbaba/cowin/issues',
-        'Source': 'https://github.com/backtrackbaba/cowin',
+
     },
 )
