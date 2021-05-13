@@ -1,0 +1,7 @@
+README.md
+setup.py
+cowin_tracker.egg-info/PKG-INFO
+cowin_tracker.egg-info/SOURCES.txt
+cowin_tracker.egg-info/dependency_links.txt
+cowin_tracker.egg-info/requires.txt
+cowin_tracker.egg-info/top_level.txt
