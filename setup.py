@@ -8,11 +8,12 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='cowin_tracker',
-    version='1.0.1',
+    version='1.0.2',
     description='Python wrapper for CoWin APIs',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Ajay Nigade',
+    url='https://github.com/ajaynigade1906/cowin_tracker',
     author_email='ajay.nigade2012@gmail.com',
     classifiers=[
         'Development Status :: 3 - Alpha',
@@ -34,7 +35,7 @@ setup(
         'pytest==6.2.3',
         'requests==2.25.1'
     ],
-    project_urls={  # Optional
-
+    project_urls={  
+        'Source': 'https://github.com/ajaynigade1906/cowin_tracker',
     },
 )

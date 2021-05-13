@@ -1,11 +1,12 @@
 Metadata-Version: 2.1
 Name: cowin-tracker
-Version: 1.0.1
+Version: 1.0.2
 Summary: Python wrapper for CoWin APIs
-Home-page: UNKNOWN
+Home-page: https://github.com/ajaynigade1906/cowin_tracker
 Author: Ajay Nigade
 Author-email: ajay.nigade2012@gmail.com
 License: UNKNOWN
+Project-URL: Source, https://github.com/ajaynigade1906/cowin_tracker
 Description: # Cowin Tracker
         
         Python API wrapper for CoWin, India's digital platform launched by the government to help citizens register themselves
